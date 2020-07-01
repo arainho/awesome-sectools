@@ -15,6 +15,12 @@ Repository | Description
 [Pentesting Cheatsheets](https://ired.team/offensive-security-experiments/offensive-security-cheetsheets)  | Pentesting Cheatsheets Convenient commands for your pentesting / red-teaming engagements, OSCP and CTFs.
 [sans-cheat-sheet-netcat](https://www.sans.org/blog/sans-cheat-sheet-netcat)  | SANS Cheat Sheet: Netcat
 
+## Wiki's
+
+Repository | Description
+---- | ----
+[pentest-wiki](https://github.com/nixawk/pentest-wiki)  | PENTEST-WIKI is a free online security knowledge library for pentesters / researchers.
+
 ## Other useful repositories
 
 Repository | Description
