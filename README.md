@@ -12,11 +12,11 @@ Repository | Description
 
 Website | Description
 ---- | ----
-[Pentesting Cheatsheets](https://ired.team/offensive-security-experiments/offensive-security-cheetsheets)  | Pentesting Cheatsheets Convenient commands for your pentesting / red-teaming engagements, OSCP and CTFs.
-[Awesome Pentest Cheat Sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) | Pentest Cheatsheets 	Collection of the cheat sheets useful for pentesting
-[Security Cheatsheets](https://github.com/andrewjkerr/security-cheatsheets) | Collection of cheatsheets for various infosec tools and topics
-[Netcat Cheat Sheet](https://www.sans.org/blog/sans-cheat-sheet-netcat)  | SANS Cheat Sheet: Netcat
-[Metasploit Cheat Sheet](https://www.sans.org/blog/sans-pen-test-cheat-sheet-metasploit) | SANS Pen Test Cheat Sheet: Metasploit
+[Pentesting](https://ired.team/offensive-security-experiments/offensive-security-cheetsheets)  | Pentesting Cheatsheets Convenient commands for your pentesting / red-teaming engagements, OSCP and CTFs.
+[Awesome Pentest](https://github.com/coreb1t/awesome-pentest-cheat-sheets) | Pentest Cheatsheets 	Collection of the cheat sheets useful for pentesting
+[Security](https://github.com/andrewjkerr/security-cheatsheets) | Collection of cheatsheets for various infosec tools and topics
+[Netcat](https://www.sans.org/blog/sans-cheat-sheet-netcat)  | SANS Cheat Sheet: Netcat
+[Metasploit](https://www.sans.org/blog/sans-pen-test-cheat-sheet-metasploit) | SANS Pen Test Cheat Sheet: Metasploit
 
 ## Wiki's
 
