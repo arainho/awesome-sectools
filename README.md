@@ -34,11 +34,16 @@ Website | Description
 
 Repository | Description
 ---- | ----
-[archerysec](https://github.com/archerysec/archerysec)          | Centralize Vulnerability Assessment and Management for DevSecOps Team
+[the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more
+
+## Automation options
+
+Repository | Description
+---- | ----
 [jaeles](https://github.com/jaeles-project/jaeles)              | The Swiss Army knife for automated Web Application Testing
 [Osmedeus](https://github.com/j3ssie/Osmedeus)                  | Fully automated offensive security framework for reconnaissance and vulnerability scanning
 [secureCodeBox](https://github.com/secureCodeBox/secureCodeBox) | Continuous Secure Delivery - Out of the Box
-
-
+[archerysec](https://github.com/archerysec/archerysec)          | Centralize Vulnerability Assessment and Management for DevSecOps Team
+[archerysec-in-jenkins](https://blog.archerysec.com/Integrate-ArcherySec-OWASP-ZAP-in-Jenkins-CICD-Pipeline) | Integrate ArcherySec + OWASP ZAP in Jenkins CI/CD Pipeline
 
 
