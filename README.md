@@ -46,5 +46,6 @@ Repository | Description
 [secureCodeBox](https://github.com/secureCodeBox/secureCodeBox) | Continuous Secure Delivery - Out of the Box
 [archerysec](https://github.com/archerysec/archerysec)          | Centralize Vulnerability Assessment and Management for DevSecOps Team
 [archerysec-in-jenkins](https://blog.archerysec.com/Integrate-ArcherySec-OWASP-ZAP-in-Jenkins-CICD-Pipeline) | Integrate ArcherySec + OWASP ZAP in Jenkins CI/CD Pipeline
+[Sn1per](https://github.com/1N3/Sn1per)                         | Automated pentest framework for offensive security experts
 
 
