@@ -7,6 +7,7 @@
 Repository | Description
 ---- | ----
 [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)  | A collection of various awesome lists for hackers, pentesters and security researchers
+[security-awesome-lists](https://project-awesome.org/#security)| Curated list of awesome lists for Security
 
 ## Cheatsheets
 
