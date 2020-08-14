@@ -24,7 +24,8 @@ Website | Description
 
 Repository | Description
 ---- | ----
-[pentest-wiki](https://github.com/nixawk/pentest-wiki)  | PENTEST-WIKI is a free online security knowledge library for pentesters / researchers.
+[PENTEST-WIKI](https://github.com/nixawk/pentest-wiki)  | PENTEST-WIKI is a free online security knowledge library for pentesters / researchers.
+[Application Security Wiki](https://appsecwiki.com) |  Initiative to provide all Application security related resources to Security Researchers and developers at one place. 
 
 ## Framework's
 
