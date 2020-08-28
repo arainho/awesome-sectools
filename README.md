@@ -8,7 +8,8 @@ Repository | Description
 ---- | ----
 [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)  | A collection of various awesome lists for hackers, pentesters and security researchers
 [security-awesome-lists](https://project-awesome.org/#security)| Curated list of awesome lists for Security
-[awesome-waf](https://github.com/0xInfection/Awesome-WAF) | Everything awesome about web-application firewalls (WAF).
+[awesome-waf](https://github.com/0xInfection/Awesome-WAF) | Everything awesome about web-application firewalls (WAF)
+[awesome-security](https://awesomelists.top/#repos/sbilly/awesome-security) | A collection of awesome software, libraries, documents, books, resources and cools stuffs about security
 
 ## Cheatsheets
 
