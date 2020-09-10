@@ -32,6 +32,9 @@ Website | Description
 ---- | ----
 [Penetration Test Framework](http://www.vulnerabilityassessment.co.uk/Penetration%20Test.html)  | Penetration Test Framework (PTF) - A good starting resource for those getting into this field.
 
+## Vulnerable Apps / VMs 
+[Vulnerable Docker VM](https://notsosecure.com/vulnerable-docker-vm) | Ever fantasized about playing with docker misconfigurations, privilege escalation within a container? Download this VM.
+
 ## Other useful repositories
 Repository | Description
 ---- | ----
