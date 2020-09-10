@@ -3,7 +3,6 @@
 **A collection of awesome security tools and resources.**
 
 ## Awesome Repositories
-
 Repository | Description
 ---- | ----
 [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)  | A collection of various awesome lists for hackers, pentesters and security researchers
@@ -12,7 +11,6 @@ Repository | Description
 [awesome-security](https://awesomelists.top/#repos/sbilly/awesome-security) | A collection of awesome software, libraries, documents, books, resources and cools stuffs about security
 
 ## Cheatsheets
-
 Website | Description
 ---- | ----
 [Pentesting](https://ired.team/offensive-security-experiments/offensive-security-cheetsheets)  | Pentesting Cheatsheets Convenient commands for your pentesting / red-teaming engagements, OSCP and CTFs.
@@ -23,27 +21,24 @@ Website | Description
 [Metasploit](https://www.sans.org/blog/sans-pen-test-cheat-sheet-metasploit) | SANS Pen Test Cheat Sheet: Metasploit
 
 ## Wiki's
-
 Repository | Description
 ---- | ----
 [PENTEST-WIKI](https://github.com/nixawk/pentest-wiki)  | PENTEST-WIKI is a free online security knowledge library for pentesters / researchers.
 [Application Security Wiki](https://appsecwiki.com) |  Initiative to provide all Application security related resources to Security Researchers and developers at one place. 
+[Cloud Security Wiki](https://cloudsecwiki.com) | Cloud Security Wiki is an initiative to provide all Cloud security related resources to Security Researchers and developers at one place.
 
 ## Framework's
-
 Website | Description
 ---- | ----
 [Penetration Test Framework](http://www.vulnerabilityassessment.co.uk/Penetration%20Test.html)  | Penetration Test Framework (PTF) - A good starting resource for those getting into this field.
 
 ## Other useful repositories
-
 Repository | Description
 ---- | ----
 [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more
 [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 
 ## Automation options
-
 Repository | Description
 ---- | ----
 [jaeles](https://github.com/jaeles-project/jaeles)              | The Swiss Army knife for automated Web Application Testing
